@@ -6,8 +6,8 @@
 * CSS
 * Flex-box
 
-  ## Hecho por :
-  ### Ana Garcia ( Instructora en Alura )
+## Hecho por :
+### Ana Garcia ( Instructora en Alura )
 
-  ## Modificado por :
-  ### Lautaro Moreira
+## Modificado por :
+### Lautaro Moreira
